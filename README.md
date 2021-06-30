@@ -5,7 +5,7 @@ Sou _**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End utilizand
 
 ## :iphone: Contatos
 
-Linkedin: [wsmiranda](https://www.linkedin.com/in/wsmiranda/)</br>
+LinkedIn: [wsmiranda](https://www.linkedin.com/in/wsmiranda/)</br>
 E-mail: wsmiranda11@gmail.com
 <br><br>
 
