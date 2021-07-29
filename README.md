@@ -1,7 +1,7 @@
 # :wave: Oi, meu nome é Weslei!
-Sou _**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End utilizando Node.js**_, estudo a trilha JavaScript mas estou disponível para aprender novas tecnologias e habilidades
+_**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End utilizando Node.js**_. Estudo a trilha JavaScript mas estou disponível para aprender novas tecnologias e habilidades
 - Trabalhei em vários projetos adquirindo experiência com _**Node.js, MySQL e MongoDB**_
-- Atualmente estudando _**Desenvolvimento Guiado por Teste (TDD) com Jest**_
+- Atualmente estudando _React_ e _**Desenvolvimento Guiado por Teste (TDD) com Jest**_
 
 ## :iphone: Contatos
 
