@@ -1,5 +1,5 @@
 # :wave: Oi, meu nome é Weslei!
-_**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End utilizando Node.js**_. Estudo a trilha JavaScript mas estou disponível para aprender novas tecnologias e habilidades
+_**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End**_. 
 - Trabalhei em vários projetos adquirindo experiência com _**Node.js, MySQL e MongoDB**_
 - Atualmente estudando _**React**_ e _**Desenvolvimento Guiado por Teste (TDD) com Jest**_
 
@@ -10,6 +10,8 @@ E-mail: wsmiranda11@gmail.com
 <br><br>
 
 ## :gear: Principais Competências
+![csharp](https://img.shields.io/badge/C%23-000?style=social&logo=csharp&logoColor=239120) '
+![csharp](https://img.shields.io/badge/.NET-000?style=social&logo=dotnet&logoColor=512BD4) '
 ![typescript](https://img.shields.io/badge/TypeScript-000?style=social&logo=typescript&logoColor=3178c6) '
 ![nodejs](https://img.shields.io/badge/Node.js-000?style=social&logo=nodedotjs&logoColor=43853D) '
 ![javascript](https://img.shields.io/badge/JavaScript-000?style=social&logo=javascript&logoColor=yellow) '
@@ -27,7 +29,6 @@ E-mail: wsmiranda11@gmail.com
 ![css3](https://img.shields.io/badge/CSS3-000?style=social&logo=css3&logoColor=1572B6) '
 ![java](https://img.shields.io/badge/Java-000?style=social&logo=java&logoColor=007396) '
 ![c](https://img.shields.io/badge/C-000?style=social&logo=c&logoColor=A8B9CC) '
-![csharp](https://img.shields.io/badge/C%23-000?style=social&logo=csharp&logoColor=239120) '
 ![python](https://img.shields.io/badge/Python-000?style=social&logo=python&logoColor=3776AB)
 
 ### :hammer_and_wrench: Ferramentas
