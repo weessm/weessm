@@ -1,7 +1,7 @@
 # :wave: Oi, meu nome é Weslei!
 _**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End**_. 
-- Trabalhei em vários projetos adquirindo experiência com _**Node.js, MySQL e MongoDB**_
-- Atualmente estudando _**React**_ e _**Desenvolvimento Guiado por Teste (TDD) com Jest**_
+- Trabalhei em vários projetos, adquirindo experiência com _**Node.js, MySQL e MongoDB**_
+- Atualmente trabalhando com _**.NET**_ e estudando _**Angular**_
 
 ## :iphone: Contatos
 
@@ -37,4 +37,5 @@ E-mail: wsmiranda11@gmail.com
 ![postman](https://img.shields.io/badge/Postman-000?style=social&logo=postman&logoColor=FF6C37) '
 ![figma](https://img.shields.io/badge/Figma-000?style=social&logo=figma&logoColor=F24E1E) '
 ![git](https://img.shields.io/badge/Git-000?style=social&logo=git&logoColor=F05032) '
-![trello](https://img.shields.io/badge/Trello-000?style=social&logo=trello&logoColor=0052CC)
+![trello](https://img.shields.io/badge/Trello-000?style=social&logo=trello&logoColor=0052CC) '
+![discord](https://img.shields.io/badge/Discord-000?style=social&logo=discord&logoColor=5865F2)
