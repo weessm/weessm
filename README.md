@@ -1,7 +1,7 @@
 # :wave: Oi, meu nome é Weslei!
-_**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Back-End**_. 
-- Trabalhei em vários projetos, adquirindo experiência com _**Node.js, MySQL e MongoDB**_
-- Atualmente trabalhando com _**.NET**_ e estudando _**Angular**_
+_**Desenvolvedor Web**_ com foco em _**Desenvolvimento de Backend**_. 
+- Trabalhei em vários projetos, adquirindo experiência com _**JavaScript, TypeScript, Node.js, MySQL e MongoDB**_
+- Atualmente estudando _**NestJS**_
 
 ## :iphone: Contatos
 
