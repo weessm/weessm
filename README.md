@@ -39,6 +39,7 @@
 ### :books: Studying
 ![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![ReactJS](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00d8ff)&nbsp;
 
 ### :email: Contacts
 LinkedIn: [linkedin.com/in/wsmiranda/](https://www.linkedin.com/in/wsmiranda/)</br>
