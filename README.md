@@ -4,9 +4,9 @@
 
 - 🌱 Atualmente estou **reforçando conhecimento em JavaScript**
 
-- 📫 Contato **wsmiranda11@gmail.com**
+- 📫 Email **wsmiranda11@gmail.com**
 
-- 🧾 LinkedIn **<a href="https://linkedin.com/in/wsmiranda" target="blank">wsmiranda</a>**
+- 📑 LinkedIn **[wsmiranda](https://linkedin.com/in/wsmiranda)**
 
 </br>
 </p>
