@@ -6,8 +6,6 @@
 
 - 📫 Email **wsmiranda11@gmail.com**
 
-- 📑 LinkedIn **[wsmiranda](https://linkedin.com/in/wsmiranda)**
-
 </br>
 </p>
 <h3 align="left">Linguagens e Ferramentas:</h3>
