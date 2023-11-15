@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, meu nome é Weslei Miranda</h1>
-<h3 align="center">Desenvolvedor Web com foco em Backend (Node.js) e Frontend (ReactJS)</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 </br>
 
 - 🌱 Atualmente estou **Desenvolvendo projetos em ReactJS com Next.js e Tailwind**
