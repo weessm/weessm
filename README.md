@@ -2,9 +2,7 @@
 <h3 align="center">Desenvolvedor Web com foco em Backend (Node.js)</h3>
 </br>
 
-- 🌱 Atualmente estou **reforçando conhecimento em JavaScript**
-
-- 📫 Email **wsmiranda11@gmail.com**
+- 🌱 Atualmente estou **Desenvolvendo projetos em ReactJS com Next.js e Tailwind**
 
 </br>
 </p>
