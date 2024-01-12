@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✌ I'm Weslei</h1>
-  <i>I'm a Web Dev. Take a look at my repositories!</i>
+  <i>Web Dev. Take a look at my repositories!</i>
 </div>
 
 <div align="center">
