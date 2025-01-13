@@ -1,6 +1,3 @@
----
-[![](https://visitcount.itsvg.in/api?id=weessm&icon=5&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
   <h1>Hey! I'm Weslei</h1>
 </div>
@@ -76,11 +73,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weessm&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     </a>
     <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=weessm&theme=merko&hide_border=false&include_all_commits=true&count_private=true">
-    </a>
-    <br><br>
-    <a href="#" alt="Dev Quote">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
+      <img src="https://github-readme-stats.vercel.app/api?username=weessm&theme=merko&hide_border=false&include_all_commits=false&count_private=true">
     </a>
     <br>
   </p>
