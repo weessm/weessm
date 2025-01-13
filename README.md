@@ -52,14 +52,6 @@
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
-
-### Tools
-<div>
-  <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=Insomnia&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white">
-</div>
 <br><br>
 
 <div>
