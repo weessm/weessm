@@ -58,19 +58,6 @@
   <img src="https://github.com/weessm/weessm/assets/56746413/26473b1b-4014-4583-a46d-dd98c593f11c">
 </div>
 
-<div align="center">
-  <br><br>
-  <p align="center">
-    <a href="#" alt="Most used languages">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weessm&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    </a>
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=weessm&theme=merko&hide_border=false&include_all_commits=false&count_private=true">
-    </a>
-    <br>
-  </p>
-</div>
-
 ![Weslei Miranda](https://github.com/weessm/weessm/assets/56746413/cc422709-cb7a-4f93-a6fc-3a8256e0bd6d)
 <br>
 </p>
